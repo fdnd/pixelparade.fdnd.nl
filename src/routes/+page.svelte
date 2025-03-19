@@ -10,6 +10,6 @@
   <div class="text-container">
       <h2 class="large-heading">FDND Pixel Parade</h2>
 
-      <p>Bij FDND werken we doorlopend aan langlopende projecten. De Pixel Parade is ene verzameling van ons beste werk.</p>
+      <p>Bij FDND werken we doorlopend aan langlopende projecten. De Pixel Parade is een verzameling van ons beste werk.</p>
   </div>
 </section>

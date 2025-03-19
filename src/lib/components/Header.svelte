@@ -65,9 +65,9 @@
         </div>
 
         <ul style="--total: 4;">
-            <li style="--i: 1;"><a href="/projecten">Case Studies</a></li>
-            <li style="--i: 2;"><a href="/design-challenge">Testimonials</a></li>
-            <li style="--i: 3;"><a href="/stage">Projecten</a></li>
+            <li style="--i: 1;"><a href="/case-studies">Case Studies</a></li>
+            <li style="--i: 2;"><a href="/testimonials">Testimonials</a></li>
+            <li style="--i: 3;"><a href="/projecten">Projecten</a></li>
 
         </ul>
     </nav>
