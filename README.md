@@ -1,2 +1,2 @@
-# showcase.fdnd.nl
+# pixelparade.fdnd.nl
 A place to showcase our work
